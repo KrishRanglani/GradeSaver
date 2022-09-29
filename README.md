@@ -1,5 +1,5 @@
 # GradeSaver
-Machine Learning Algorithm that scans test and summarizes it
+Machine Learning Algorithm that scans text and summarizes it
 
 . Automatic extraction based on weighting
 This approach treats sentences as ordered sequences and words as ordered sequences within sentences. It follows four fundamental steps:
